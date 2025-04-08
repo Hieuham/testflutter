@@ -45,5 +45,5 @@
                       tags: ['thư giãn'],
                       color: Colors.purpleAccent,
                     ),
-      ];
+      ]
 }
